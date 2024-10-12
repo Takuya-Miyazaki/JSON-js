@@ -1,5 +1,5 @@
 //  json2.js
-//  2017-06-12
+//  2023-05-10
 //  Public Domain.
 //  NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
 
